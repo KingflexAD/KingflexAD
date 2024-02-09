@@ -5,7 +5,7 @@
 - 📫 How to reach me Email : asishdash5896@gmail.com
 - 😄 Pronouns: He/Him
 
- ## 🔧 Technologies & Tools
+ ## 🔧 Language & Tools
  
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=orange)
