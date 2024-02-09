@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Dash
 - 🌱 I’m currently learning Full Stack Web Development And JAVA.
-- 💞️ I’m looking to collaborate on Web Devlopment projects.
+- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me @asishdash5896@gmail.com
 - 😄 Pronouns: He/Him
  
