@@ -18,6 +18,10 @@
   <img src="https://via.placeholder.com/60x60.png?text=Pandas" alt="Pandas" width="60" height="60"/>
   <img src="https://via.placeholder.com/60x60.png?text=NumPy" alt="NumPy" width="60" height="60"/>
 </p>
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingflexAD&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+
 <!---
 KingflexAD/KingflexAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
