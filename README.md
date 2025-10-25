@@ -1,13 +1,10 @@
 
 - ## 👋 Hi, I’m Ashish Dash
-- 🌱 I’m currently learning Full Stack Web Development And Python.
+- 🌱 I’m currently learning DevOps And Python.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me Email : asishdash5896@gmail.com
 - 😄 Pronouns: He/Him
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingflexAD&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 ## 🏆 Top Languages
 
