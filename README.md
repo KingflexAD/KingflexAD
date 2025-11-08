@@ -2,6 +2,7 @@
 - ## 👋 Hi, I’m Ashish Dash
 - 🌱 I’m currently learning DevOps And Python.
 - 📫 How to reach me Email : asishdash5896@gmail.com
+- Link To My First Deployment Using AWS EKS - http://k8s-game2048-ingress2-bcac0b5b37-807856259.ap-south-1.elb.amazonaws.com/
 
 ## 🏆 Top Languages
 
