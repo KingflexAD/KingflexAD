@@ -1,10 +1,7 @@
 
 - ## 👋 Hi, I’m Ashish Dash
 - 🌱 I’m currently learning DevOps And Python.
-- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me Email : asishdash5896@gmail.com
-- 😄 Pronouns: He/Him
-
 
 ## 🏆 Top Languages
 
